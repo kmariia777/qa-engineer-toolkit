@@ -6,7 +6,7 @@ Practical templates, Playwright snippets, and short guides for QA engineers — 
 
 - **templates/** — copy-paste bug report, lean test plan, and exploratory testing charter templates
 - **playwright-snippets/** — small, runnable Playwright + TypeScript examples (API testing, network mocking, accessibility checks)
-- **articles/** — short practical guides: risk-based testing, debugging flaky tests
+- **articles/** — short practical guides: risk-based testing, debugging flaky tests, writing bug reports devs fix fast
 
 ## Reading list
 
